@@ -1,0 +1,1 @@
+Implemented a Java Hadoop MapReduce program to find a kitty image.
